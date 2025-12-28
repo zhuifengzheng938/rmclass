@@ -1,0 +1,3 @@
+/home/zhuifengzheng/Desktop/class03/build/CMakeFiles/cmake_learn_3.dir
+/home/zhuifengzheng/Desktop/class03/build/CMakeFiles/edit_cache.dir
+/home/zhuifengzheng/Desktop/class03/build/CMakeFiles/rebuild_cache.dir

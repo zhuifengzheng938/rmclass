@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/cmake_learn_2.dir/home/zhuifengzheng/Desktop/class02/src/Task2.cpp.o -o cmake_learn_2 

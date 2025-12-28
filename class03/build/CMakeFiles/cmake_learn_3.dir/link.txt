@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/cmake_learn_3.dir/home/zhuifengzheng/Desktop/class03/src/task3.cpp.o -o cmake_learn_3 
